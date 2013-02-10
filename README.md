@@ -1,6 +1,6 @@
 # Original article at: [Executing JavaScript Within Java With Mozilla Rhino](http://www.iankwalter.com/blog/2013/02/09/executing-javascript-within-java-with-mozilla-rhino/)
 
-{%img center http://www.iankwalter.com/images/Rhino.jpg %} If you need your Java project to be more dynamic, take a look at Rhino. Developed by Mozilla, Rhino allows you to execute and interact with JavaScript code from within Java. Here I'll show you an example of how you can take a Java object and modify that object using JavaScript!
+If you need your Java project to be more dynamic, take a look at Rhino. Developed by Mozilla, Rhino allows you to execute and interact with JavaScript code from within Java. Here I'll show you an example of how you can take a Java object and modify that object using JavaScript!
 
 Here is our Stock object that will model information necessary for us to determine if it is undervalued:
 
